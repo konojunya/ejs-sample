@@ -1,0 +1,12 @@
+{
+  "name": "ejs-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "ssh://git@github.com/konojunya/ejs-sample.git",
+  "author": "konojunya <junya03dance@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.2"
+  }
+}
